@@ -1,0 +1,6 @@
+{
+  "domain": "dev-ralitsa.eu.auth0.com",
+  "clientId": "nJyEMIwvGT2Fg4WUiT8lJqeBHyWNBxqg",
+  "audience": "http://your-audience-identifier",
+  "apiUrl": "http://localhost:7000"
+}

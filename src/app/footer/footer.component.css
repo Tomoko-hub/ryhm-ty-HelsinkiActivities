@@ -1,0 +1,10 @@
+.footer-logo img{
+    float: center;
+    width: 150px;
+    height: 150px;
+}
+.footer-logo p{
+    position: relative;
+    top: 18px;
+    left: 10px;
+}
